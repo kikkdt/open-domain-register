@@ -1,0 +1,15 @@
+{
+    "description": "My personal domain. Subdomain wildcards are used for accessing diffrent service.",
+    "domain": "is-cool.dev",
+    "subdomain": "*.kietdt",
+    "owner": {
+      "email": "kietdt@proton.me"
+    },
+    "record": {
+        "NS": [
+          "pete.ns.cloudflare.com",
+          "phoenix.ns.cloudflare.com"
+        ]
+    },
+    "proxied": false
+}
